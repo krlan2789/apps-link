@@ -19,4 +19,5 @@
 ### Made from scratch (Jobdesk)
 - https://play.google.com/store/apps/details?id=com.anakpintar.perumahan
 - https://play.google.com/store/apps/details?id=com.anakpintarstudio.parentportal
+- https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker
 - https://drive.google.com/file/d/1FTi2EYv4dHS4AbRdHtvp9US172TKLPaP/view?usp=sharing
