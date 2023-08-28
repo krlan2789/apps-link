@@ -3,7 +3,7 @@
 ## My Practice Projects (Personal)
 <!-- - [All Repositories](https://github.com/krlan2789?tab=repositories&type=public) -->
 - [Sanbercode Mobile Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project)
-- [Unity Location Background Service - Plugin](https://github.com/krlan2789/unity-background-service)
+- [Background Location - Unity Android Plugin](https://github.com/krlan2789/unity-background-service)
 
 ## Maintenance - AR/VR Apps (Job)
 - [Kaifa Space Center](https://play.google.com/store/apps/details?id=com.kaifa.learning)
