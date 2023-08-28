@@ -19,7 +19,7 @@
 - [CLC Let's Talk (CLC Daily Speaking For Student's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew)
 
 ## Made from scratch (Job)
-- [https://play.google.com/store/apps/details?id=com.anakpintar.perumahan](https://play.google.com/store/apps/details?id=com.anakpintar.perumahan)
+- [Perumahan RT](https://play.google.com/store/apps/details?id=com.anakpintar.perumahan)
 - [CLC Student Report](https://play.google.com/store/apps/details?id=com.anakpintarstudio.parentportal)
 - [CLC Word Explorer for Kids](https://play.google.com/store/apps/details?id=com.AnakPintar.CLCMeaningforKids)
 - [5T Fine Blend](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker)
