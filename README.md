@@ -6,7 +6,7 @@
   - Kotlin Compose
 - [Background Location](https://github.com/krlan2789/unity-background-service) :
   - Unity
-  - SingularityIndonesia/ForegroundGPSTracker (android plugin)
+  - [SingularityIndonesia/ForegroundGPSTracker (android plugin)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 - [Web Portfolio (On progress)](https://github.com/erlankurnia/erlankurnia.github.io) :
   - Vue.js
   - Tailwind CSS
@@ -54,6 +54,7 @@
   - Unity (Android/iOS)
   - Google Firebase
   - Google AdMob
+  - [SingularityIndonesia/ForegroundGPSTracker (android plugin - on progress)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 - [CLC Student Report](https://play.google.com/store/apps/details?id=com.anakpintarstudio.parentportal) :
   - Unity (Android/iOS)
 - [CLC Word Explorer for Kids](https://play.google.com/store/apps/details?id=com.AnakPintar.CLCMeaningforKids) :
@@ -61,7 +62,7 @@
 - [5T Fine Blend](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker) :
   - Unity (Android/iOS)
   - OneSignal (on progress)
-  - SingularityIndonesia/ForegroundGPSTracker (android plugin)
+  - [SingularityIndonesia/ForegroundGPSTracker (android plugin)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 - Xendit payment api for Perumahan RT apps :
   - e-Wallet, Virtual Account, Disbursement
   - Express.js
