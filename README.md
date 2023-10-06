@@ -1,6 +1,6 @@
 # Projects/Applications I'm working on
 
-## My Personal Projects
+## Personal Projects
 <!-- - [All Repositories](https://github.com/krlan2789?tab=repositories&type=public) -->
 - [Sanbercode Mobile Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project) :
   - Kotlin Compose
