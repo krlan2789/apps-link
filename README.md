@@ -7,7 +7,7 @@
 - [Background Location](https://github.com/krlan2789/unity-background-service) :
   - Unity
   - [SingularityIndonesia/ForegroundGPSTracker (android plugin)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
-- [Web Portfolio (On progress)](https://github.com/erlankurnia/erlankurnia.github.io) :
+- [Web Portfolio (On progress)](https://erlankurnia.github.io) :
   - Vue.js
   - Tailwind CSS
 - [WebSocket Server](https://github.com/krlan2789/express-ws-app) :
