@@ -32,8 +32,6 @@
 - [Halo Balita AR](https://play.google.com/store/apps/details?id=com.mizan.map.halobalitaar) :
   - Unity (Android/iOS)
   - Maxst
-- [Smart Apps (Contents)](https://play.google.com/store/apps/details?id=com.childhood.smartpen)
-  - QT
 - [CLC Daily Reading For Students](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudent) :
   - Unity (Android/iOS)
   - Google Firebase
