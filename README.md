@@ -2,6 +2,9 @@
 
 ## Personal Projects
 <!-- - [All Repositories](https://github.com/krlan2789?tab=repositories&type=public) -->
+- [Progate - HTML5 CSS3 Course (Team Project)](https://krlan2789.github.io/progate-ceb-e02) :
+  - HTML5
+  - CSS3
 - [Sanbercode Mobile Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project) :
   - Kotlin Compose
 - [Background Location](https://github.com/krlan2789/unity-background-service) :
