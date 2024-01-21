@@ -10,13 +10,13 @@
 - [Background Location](https://github.com/krlan2789/unity-background-service) :
   - Unity
   - [SingularityIndonesia/ForegroundGPSTracker (android plugin)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
-- [Web Portfolio](https://erlankurnia.github.io) :
+- [Personal Website](https://erlankurnia.github.io) :
   - Vue.js
   - Tailwind CSS
 - [WebSocket Server](https://github.com/krlan2789/express-ws-app) :
   - Express.js
   - PostgreSQL
-- [Invitation Web](https://invitation.kuryana.id) :
+- [Event Invitation Web](https://invitation.kuryana.id) :
   - Laravel
   - Tailwind CSS
   - PostgreSQL
@@ -64,23 +64,18 @@
   - Unity (Android/iOS)
   - OneSignal (on progress)
   - [SingularityIndonesia/ForegroundGPSTracker (android plugin)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
-- Xendit payment api for Perumahan RT apps :
+- Xendit Payment API for Perumahan RT apps :
   - e-Wallet, Virtual Account, Disbursement
   - Express.js
   - PostgreSQL
   - Xendit
-- Midtrans payment api for Perumahan RT apps :
+- Midtrans Payment API for Perumahan RT apps :
   - e-Wallet
   - Express.js
   - PostgreSQL
   - Xendit
-- IAK PPOB api for Perumahan RT apps :
+- IAK PPOB API for Perumahan RT apps :
   - Pulsa, PDAM, PLN
   - Express.js
   - PostgreSQL
   - Xendit
-
-
-
-
-
