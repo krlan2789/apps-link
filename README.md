@@ -1,7 +1,6 @@
 # Projects/Applications I'm working on
 
 ## Personal Projects
-<!-- - [All Repositories](https://github.com/krlan2789?tab=repositories&type=public) -->
 - [Progate - HTML5 CSS3 Course (Team Project)](https://krlan2789.github.io/progate-ceb-e02) :
   - HTML5
   - CSS3
