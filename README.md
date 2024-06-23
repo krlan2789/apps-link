@@ -55,7 +55,7 @@
   - Google Firebase
   - Google AdMob
   - [SingularityIndonesia/ForegroundGPSTracker (android plugin - on progress)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
-- [CLC Student Report](https://play.google.com/store/apps/details?id=com.anakpintarstudio.parentportal) :
+- [CLC Report App](https://play.google.com/store/apps/details?id=com.anakpintarstudio.clcreport) :
   - Unity (Android/iOS)
 - [CLC Word Explorer for Kids](https://play.google.com/store/apps/details?id=com.AnakPintar.CLCMeaningforKids) :
   - Unity (Android/iOS)
