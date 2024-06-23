@@ -15,7 +15,7 @@
 - [WebSocket Server](https://github.com/krlan2789/express-ws-app) :
   - Express.js
   - PostgreSQL
-- [Event Invitation Web](https://invitation.kuryana.id) :
+- [Event Invitation](https://invitation.kuryana.id) :
   - Laravel
   - Tailwind CSS
   - PostgreSQL
@@ -34,18 +34,18 @@
 - [Halo Balita AR](https://play.google.com/store/apps/details?id=com.mizan.map.halobalitaar) :
   - Unity (Android/iOS)
   - Maxst
-- [CLC Daily Reading For Students](https://play.google.com/store/apps/details?id=com.anakpintar.clcreading) :
+- [CLC Reading App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreading) :
   - Unity (Android/iOS)
   - Google Firebase
-- [CLC Daily Meaning For Students](https://play.google.com/store/apps/details?id=com.anakpintar.clcmeaning) :
+- [CLC Meaning App](https://play.google.com/store/apps/details?id=com.anakpintar.clcmeaning) :
   - Unity (Android/iOS)
-- [CLC Daily Reading, For Teacher](https://play.google.com/store/apps/details?id=com.anakpintar.clcteacherapp) :
-  - Unity (Android/iOS)
-  - Google Firebase
-- [CLC Daily Speaking For Student](https://play.google.com/store/apps/details?id=com.anakpintar.clcspeaking) :
+- [CLC Teacher App](https://play.google.com/store/apps/details?id=com.anakpintar.clcteacherapp) :
   - Unity (Android/iOS)
   - Google Firebase
-- [CLC Let's Talk (CLC Daily Speaking For Student's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew) :
+- [CLC Speaking App](https://play.google.com/store/apps/details?id=com.anakpintar.clcspeaking) :
+  - Unity (Android/iOS)
+  - Google Firebase
+- [CLC Let's Talk (CLC Speaking App's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew) :
   - Unity (Android/iOS)
   - Google Firebase
 
