@@ -34,15 +34,15 @@
 - [Halo Balita AR](https://play.google.com/store/apps/details?id=com.mizan.map.halobalitaar) :
   - Unity (Android/iOS)
   - Maxst
-- [CLC Daily Reading For Students](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudent) :
+- [CLC Daily Reading For Students](https://play.google.com/store/apps/details?id=com.anakpintar.clcreading) :
   - Unity (Android/iOS)
   - Google Firebase
-- [CLC Daily Meaning For Students](https://play.google.com/store/apps/details?id=com.anakpintar.clcdailyquiz) :
+- [CLC Daily Meaning For Students](https://play.google.com/store/apps/details?id=com.anakpintar.clcmeaning) :
   - Unity (Android/iOS)
-- [CLC Daily Reading, For Teacher](https://play.google.com/store/apps/details?id=com.anakpintar.clcteacher) :
+- [CLC Daily Reading, For Teacher](https://play.google.com/store/apps/details?id=com.anakpintar.clcteacherapp) :
   - Unity (Android/iOS)
   - Google Firebase
-- [CLC Daily Speaking For Student](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentds) :
+- [CLC Daily Speaking For Student](https://play.google.com/store/apps/details?id=com.anakpintar.clcspeaking) :
   - Unity (Android/iOS)
   - Google Firebase
 - [CLC Let's Talk (CLC Daily Speaking For Student's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew) :
@@ -61,7 +61,7 @@
   - Unity (Android/iOS)
 - [5T Fine Blend](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker) :
   - Unity (Android/iOS)
-  - OneSignal (on progress)
+  - Google Firebase
   - [SingularityIndonesia/ForegroundGPSTracker (android plugin)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 - Xendit Payment API for Perumahan RT apps :
   - e-Wallet, Virtual Account, Disbursement
