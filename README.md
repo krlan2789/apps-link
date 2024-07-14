@@ -6,7 +6,7 @@
   - CSS3
 - [Android Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project) :
   - Kotlin Compose
-- [Background Location](https://github.com/krlan2789/unity-background-service) :
+- [Background Location](https://github.com/krlan2789/Unity-Background-Location) :
   - Unity
   - [SingularityIndonesia/ForegroundGPSTracker (android plugin)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 - [Personal Website](https://erlankurnia.github.io) :
