@@ -8,7 +8,7 @@
   - Kotlin Compose
 - [Background Location](https://github.com/krlan2789/Unity-Background-Location) :
   - Unity
-  - [SingularityIndonesia/ForegroundGPSTracker (android plugin)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
+  - [Unity Live Location Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
 - [Personal Website](https://erlankurnia.github.io) :
   - Vue.js
   - Tailwind CSS
