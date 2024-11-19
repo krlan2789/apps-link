@@ -2,28 +2,7 @@
 
 ## 1.1. Personal Projects
 
-1. [Progate - HTML5 CSS3 Course (Team Project)](https://krlan2789.github.io/progate-ceb-e02) :
-
-    > Collaborated on a team project to master HTML5 and CSS3 in Progate Platform.
-
-    - HTML5
-    - CSS3
-
-2. [Android Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project) :
-
-    > Final Project Kotlin Compose application in Sanbercode Platform.
-
-    - Kotlin Compose
-    - REST API Client
-
-3. [Background Location](https://github.com/krlan2789/Unity-Background-Location) :
-
-    > Developed Unity Mobile Application with a focus on background location services.
-
-    - Unity (Android)
-    - [Unity Live Location Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
-
-4. [Personal Website](https://erlankurnia.github.io) :
+1. [Personal Website](https://erlankurnia.github.io) :
 
     > A personal website that built using Vue.js and Tailwind CSS.
 
@@ -32,6 +11,27 @@
     - Tailwind CSS
     - Markdown-It
     - Highlight.js
+
+2. [Progate - HTML5 CSS3 Course (Team Project)](https://krlan2789.github.io/progate-ceb-e02) :
+
+    > Collaborated on a team project to master HTML5 and CSS3 in Progate Platform.
+
+    - HTML5
+    - CSS3
+
+3. [Android Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project) :
+
+    > Final Project Kotlin Compose application in Sanbercode Platform.
+
+    - Kotlin Compose
+    - REST API Client
+
+4. [Background Location](https://github.com/krlan2789/Unity-Background-Location) :
+
+    > Developed Unity Mobile Application with a focus on background location services.
+
+    - Unity (Android)
+    - [Unity Live Location Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
 
 5. [WebSocket Server](https://github.com/krlan2789/express-ws-app) :
 
