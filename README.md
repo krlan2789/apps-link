@@ -25,7 +25,7 @@
 
 4. [Personal Website](https://erlankurnia.github.io) :
 
-    > A personal website that built using Vue.js and Tailwind CSS
+    > A personal website that built using Vue.js and Tailwind CSS.
 
     - Vue.js
     - TypeScript
