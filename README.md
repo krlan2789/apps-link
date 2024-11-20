@@ -49,6 +49,29 @@
     - Tailwind CSS
     - PostgreSQL
 
+7. [Live Location Unity Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
+
+    > A project designed to integrate live location tracking into Unity applications. It leverages the ForegroundGPSTracker library for Android by SingularityIndonesia, which is currently in progress.
+
+    - Unity (Android)
+    - C#
+    - [SingularityIndonesia/ForegroundGPSTracker (Android)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
+
+8. [Nearest Coordinate Search](https://github.com/krlan2789/Unity-Nearest-Coordinate)
+
+    > A Unity project that leverages the K-Means Clustering algorithm to efficiently search for the nearest coordinate within a coordinates list. This project is particularly useful for applications requiring spatial data analysis and nearest neighbor searches.
+
+    - Unity
+    - C#
+    - K-Means Clustering
+
+9. [Land Property](https://github.com/krlan2789/Land-Property-App)
+
+    > A project built using .NET MAUI and C#. It's designed to function similarly to real estate apps like Rumah123, Lamudi, or Brighton. The app allows users to browse and manage property listings.
+
+    - .NET MAUI
+    - C#
+
 ## 1.2. Maintenance (Job)
 
 1. [Kaifa Space Center](https://play.google.com/store/apps/details?id=com.kaifa.learning) :
@@ -123,7 +146,7 @@
     - Unity (Android, iOS)
     - Google Firebase
     - Google AdMob
-    - [SingularityIndonesia/ForegroundGPSTracker (Android - on progress)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
+    - [SingularityIndonesia/ForegroundGPSTracker (Android)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 
 2. [CLC Report App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreport) :
 
