@@ -72,6 +72,14 @@
     - .NET MAUI
     - C#
 
+10. [e-Boutique](https://github.com/krlan2789/lan-boutique)
+
+    > An e-Commerce built using Laravel 11
+
+    - Laravel 11
+    - Tailwind CSS
+    - AlpineJS
+
 ## 1.2. Maintenance (Job)
 
 1. [Kaifa Space Center](https://play.google.com/store/apps/details?id=com.kaifa.learning) :
