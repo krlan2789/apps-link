@@ -74,7 +74,7 @@
 
 10. [e-Boutique](https://github.com/krlan2789/lan-boutique)
 
-    > An e-Commerce built using Laravel 11
+    > An e-Commerce built using Laravel 11 and TailwindCSS.
 
     - Laravel 11
     - Tailwind CSS
