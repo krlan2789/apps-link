@@ -31,6 +31,7 @@
     > Developed Unity Mobile Application with a focus on background location services.
 
     - Unity (Android)
+    - C#
     - [Unity Live Location Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
 
 5. [WebSocket Server](https://github.com/krlan2789/express-ws-app) :
@@ -79,6 +80,13 @@
     - Laravel 11
     - Tailwind CSS
     - AlpineJS
+
+11. [Rising Bubble](https://krlan2789.itch.io/rising-bubble)
+
+    > Game created during 48 hours at the 2025 Global Game Jam event by GADAS with a bubble theme.
+    
+    - Unity
+    - C#
 
 ## 1.2. Maintenance (Job)
 
