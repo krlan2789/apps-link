@@ -178,7 +178,7 @@
 
 4. [5T Fine Blend](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker) :
 
-    > Sales Tracker for MKT Bayan Fajar is a bespoke mobile application developed specifically for MKT Bayan Fajar, aiming to streamline and enhance their sales operations. This tailored solution provides the company's sales team with comprehensive tools to monitor performance, manage client relationships, and analyze key sales metrics—all within a unified platform.
+    > A Sales Tracker app for MKT Bayan Fajar is a bespoke mobile application developed specifically for MKT Bayan Fajar, aiming to streamline and enhance their sales operations. This tailored solution provides the company's sales team with comprehensive tools to monitor performance, manage client relationships, and analyze key sales metrics—all within a unified platform.
 
     - Unity (Android)
     - Google Firebase
