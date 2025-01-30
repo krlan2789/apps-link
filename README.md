@@ -157,7 +157,7 @@
 
 1. [Perumahan RT](https://play.google.com/store/apps/details?id=com.anakpintar.perumahan) :
 
-    > Comprehensive app developed with Unity, Google Firebase, Google AdMob, Midtrans, and Xendit for features like GPS tracking and payment processing.
+    > Perumahan RT is a specialized mobile application designed to streamline the management of residential communities. Unlike typical property apps that focus on marketing houses, apartments, or other property types, Perumahan RT is dedicated to managing community dues, payments, inventory, news, and vital information related to the administration of a housing complex.
 
     - Unity (Android, iOS)
     - Google Firebase
