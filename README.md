@@ -2,7 +2,7 @@
 
 ## A. Personal Projects
 
-1. [Personal Website](https://erlankurnia.github.io) :
+### 1. [Personal Website](https://erlankurnia.github.io) :
 
     ### Summary
 
@@ -16,7 +16,7 @@
     - Markdown-It
     - Highlight.js
 
-2. [Progate - HTML5 CSS3 Course (Team Project)](https://krlan2789.github.io/progate-ceb-e02) :
+### 2. [Progate - HTML5 CSS3 Course (Team Project)](https://krlan2789.github.io/progate-ceb-e02) :
 
     ### Summary
 
@@ -27,7 +27,7 @@
     - HTML5
     - CSS3
 
-3. [Android Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project) :
+### 3. [Android Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project) :
 
     ### Summary
 
@@ -39,7 +39,7 @@
     - Kotlin Compose
     - REST API Client
 
-4. [Background Location](https://github.com/krlan2789/Unity-Background-Location) :
+### 4. [Background Location](https://github.com/krlan2789/Unity-Background-Location) :
 
     ### Summary
 
@@ -51,7 +51,7 @@
     - C#
     - [Unity Live Location Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
 
-5. [WebSocket Server](https://github.com/krlan2789/express-ws-app) :
+### 5. [WebSocket Server](https://github.com/krlan2789/express-ws-app) :
 
     ### Summary
 
@@ -63,7 +63,7 @@
     - Express.js
     - PostgreSQL
 
-6. [Event Invitation](https://invitation.kuryana.id) :
+### 6. [Event Invitation](https://invitation.kuryana.id) :
 
     ### Summary
 
@@ -83,7 +83,7 @@
     - Tailwind CSS
     - PostgreSQL
 
-7. [Live Location Unity Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
+### 7. [Live Location Unity Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
 
     ### Summary
 
@@ -95,7 +95,7 @@
     - C#
     - [SingularityIndonesia/ForegroundGPSTracker (Android)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 
-8. [Nearest Coordinate Search](https://github.com/krlan2789/Unity-Nearest-Coordinate)
+### 8. [Nearest Coordinate Search](https://github.com/krlan2789/Unity-Nearest-Coordinate)
 
     ### Summary
 
@@ -107,7 +107,7 @@
     - C#
     - K-Means Clustering
 
-9. [Land Property](https://github.com/krlan2789/Land-Property-App)
+### 9. [Land Property](https://github.com/krlan2789/Land-Property-App)
 
     ### Summary
 
@@ -118,7 +118,7 @@
     - .NET MAUI
     - C#
 
-10. [Land Property](https://github.com/krlan2789/Land-Property-App)
+### 10. [Land Property](https://github.com/krlan2789/Land-Property-App)
 
     ### Summary
 
@@ -131,7 +131,7 @@
     - Entity Framework Core
     - Microsoft SQL Server
 
-11. [e-Boutique](https://github.com/krlan2789/lan-boutique)
+### 11. [e-Boutique](https://github.com/krlan2789/lan-boutique)
 
     > An e-Commerce built using Laravel 11 and TailwindCSS.
 
@@ -139,7 +139,7 @@
     - Tailwind CSS
     - AlpineJS
 
-12. [Rising Bubble - GGJ 2025 by GADAS](https://krlan2789.itch.io/rising-bubble)
+### 12. [Rising Bubble - GGJ 2025 by GADAS](https://krlan2789.itch.io/rising-bubble)
 
     ### Summary
 
@@ -150,7 +150,7 @@
     - Unity (Android, iOS, Windows)
     - C#
 
-13. [LanGeng - Social Media API](https://github.com/krlan2789/Lan-SocialMedia-API)
+### 13. [LanGeng - Social Media API](https://github.com/krlan2789/Lan-SocialMedia-API)
 
     ### Summary
 
@@ -169,7 +169,7 @@
 
 ## B. Maintenance (Job)
 
-1. [Kaifa Space Center](https://play.google.com/store/apps/details?id=com.kaifa.learning) :
+### 1. [Kaifa Space Center](https://play.google.com/store/apps/details?id=com.kaifa.learning) :
 
     ### Summary
 
@@ -181,7 +181,7 @@
     - Maxst
     - Google Cardboard XR
 
-2. [Jelajah EBM AR](https://play.google.com/store/apps/details?id=com.mizan.map.ebmar) :
+### 2. [Jelajah EBM AR](https://play.google.com/store/apps/details?id=com.mizan.map.ebmar) :
 
     ### Summary
 
@@ -192,7 +192,7 @@
     - Unity (Android, iOS)
     - Maxst
 
-3. [Funtastic Learning](https://play.google.com/store/apps/details?id=com.mizan.map.funtasticlearning) :
+### 3. [Funtastic Learning](https://play.google.com/store/apps/details?id=com.mizan.map.funtasticlearning) :
 
     ### Summary
 
@@ -203,7 +203,7 @@
     - Unity (Android, iOS)
     - Maxst
 
-4. [Halo Balita AR](https://play.google.com/store/apps/details?id=com.mizan.map.halobalitaar) :
+### 4. [Halo Balita AR](https://play.google.com/store/apps/details?id=com.mizan.map.halobalitaar) :
 
     ### Summary
 
@@ -214,7 +214,7 @@
     - Unity (Android, iOS)
     - Maxst
 
-5. [CLC Teacher App](https://play.google.com/store/apps/details?id=com.anakpintar.clcteacherapp) :
+### 5. [CLC Teacher App](https://play.google.com/store/apps/details?id=com.anakpintar.clcteacherapp) :
 
     ### Summary
 
@@ -225,7 +225,7 @@
     - Unity (Android, iOS)
     - Google Firebase
 
-6. [CLC Reading App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreading) :
+### 6. [CLC Reading App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreading) :
 
     ### Summary
 
@@ -236,7 +236,7 @@
     - Unity (Android, iOS)
     - Google Firebase
 
-7. [CLC Meaning App](https://play.google.com/store/apps/details?id=com.anakpintar.clcmeaning) :
+### 7. [CLC Meaning App](https://play.google.com/store/apps/details?id=com.anakpintar.clcmeaning) :
 
     ### Summary
 
@@ -246,7 +246,7 @@
 
     - Unity (Android, iOS)
 
-8. [CLC Speaking App](https://play.google.com/store/apps/details?id=com.anakpintar.clcspeaking) :
+### 8. [CLC Speaking App](https://play.google.com/store/apps/details?id=com.anakpintar.clcspeaking) :
 
     ### Summary
 
@@ -257,7 +257,7 @@
     - Unity (Android, iOS)
     - Google Firebase
 
-9. [CLC Let's Talk (CLC Speaking App's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew) :
+### 9. [CLC Let's Talk (CLC Speaking App's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew) :
 
     ### Summary
 
@@ -271,7 +271,7 @@
 
 ## C. From Scratch (Job)
 
-1. [Perumahan RT](https://play.google.com/store/apps/details?id=com.anakpintar.perumahan) :
+### 1. [Perumahan RT](https://play.google.com/store/apps/details?id=com.anakpintar.perumahan) :
 
     ### Summary
 
@@ -289,7 +289,7 @@
     - Google AdMob
     - [SingularityIndonesia/ForegroundGPSTracker (Android)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 
-2. [CLC Report App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreport) :
+### 2. [CLC Report App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreport) :
 
     ### Summary
 
@@ -301,7 +301,7 @@
     - C#
     - WebView
 
-3. [CLC Word Explorer](https://play.google.com/store/apps/details?id=com.AnakPintar.CLCMeaningforKids) :
+### 3. [CLC Word Explorer](https://play.google.com/store/apps/details?id=com.AnakPintar.CLCMeaningforKids) :
 
     ### Summary
 
@@ -311,7 +311,7 @@
 
     - Unity (Android, iOS)
 
-4. [5T Fine Blend - Sales Tracker](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker) :
+### 4. [5T Fine Blend - Sales Tracker](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker) :
 
     ### Summary
 
@@ -329,7 +329,7 @@
     - Google Firebase
     - [SingularityIndonesia/ForegroundGPSTracker (Android)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 
-5. Xendit Payment API for Perumahan RT apps :
+### 5. Xendit Payment API for Perumahan RT apps :
 
     ### Summary
 
@@ -342,7 +342,7 @@
     - PostgreSQL
     - Xendit
 
-6. Midtrans Payment API for Perumahan RT apps :
+### 6. Midtrans Payment API for Perumahan RT apps :
 
     ### Summary
 
@@ -355,7 +355,7 @@
     - PostgreSQL
     - Midtrans
 
-7. IAK PPOB API for Perumahan RT apps :
+### 7. IAK PPOB API for Perumahan RT apps :
 
     ### Summary
 
