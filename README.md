@@ -122,7 +122,7 @@
 
 <br>
 
-### 9. [Land Estate - Mobile](https://github.com/krlan2789/Land-Property-App)
+### 9. [Land Estate - Properties Platform Mobile App](https://github.com/krlan2789/Land-Property-App)
 
 **Summary**
 
@@ -135,7 +135,7 @@
 
 <br>
 
-### 10. [Land Estate - API](https://github.com/krlan2789/Land-Property-Server)
+### 10. [Land Estate - Properties Platform API](https://github.com/krlan2789/Land-Property-Server)
 
 **Summary**
 
