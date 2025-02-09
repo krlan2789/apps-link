@@ -69,7 +69,7 @@
 
     > Event Invitation (Currently only Wedding Invitation) project is a web application that allows users to create, send, and manage event invitations. The application includes features such as user authentication, event creation, invitation sending, and RSVP tracking.
 
-    - Designed and implemented API endpoints for user authentication, event creation, invitation sending, and RSVP tracking.
+    - Designed and implemented features for user authentication, event creation, invitation sending, and RSVP tracking.
     - Handled data retrieval and storage using PostgreSQL.
     - Ensured API security and performance through best practices and optimization techniques.
     - Managed the PostgreSQL database schema and ensured data integrity and performance.
