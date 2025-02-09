@@ -16,6 +16,8 @@
 - Markdown-It
 - Highlight.js
 
+<br>
+
 ### 2. [Progate - HTML5 CSS3 Course (Team Project)](https://krlan2789.github.io/progate-ceb-e02) :
 
 #### Summary
@@ -26,6 +28,8 @@
 
 - HTML5
 - CSS3
+
+<br>
 
 ### 3. [Android Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project) :
 
@@ -39,6 +43,8 @@
 - Kotlin Compose
 - REST API Client
 
+<br>
+
 ### 4. [Background Location](https://github.com/krlan2789/Unity-Background-Location) :
 
 #### Summary
@@ -51,6 +57,8 @@
 - C#
 - [Unity Live Location Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
 
+<br>
+
 ### 5. [WebSocket Server](https://github.com/krlan2789/express-ws-app) :
 
 #### Summary
@@ -62,6 +70,8 @@
 - Node.js
 - Express.js
 - PostgreSQL
+
+<br>
 
 ### 6. [Event Invitation](https://invitation.kuryana.id) :
 
@@ -83,6 +93,8 @@
 - Tailwind CSS
 - PostgreSQL
 
+<br>
+
 ### 7. [Live Location Unity Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
 
 #### Summary
@@ -94,6 +106,8 @@
 - Unity (Android)
 - C#
 - [SingularityIndonesia/ForegroundGPSTracker (Android)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
+
+<br>
 
 ### 8. [Nearest Coordinate Search](https://github.com/krlan2789/Unity-Nearest-Coordinate)
 
@@ -107,6 +121,8 @@
 - C#
 - K-Means Clustering
 
+<br>
+
 ### 9. [Land Property](https://github.com/krlan2789/Land-Property-App)
 
 #### Summary
@@ -117,6 +133,8 @@
 
 - .NET MAUI
 - C#
+
+<br>
 
 ### 10. [Land Property](https://github.com/krlan2789/Land-Property-App)
 
@@ -131,6 +149,8 @@
 - Entity Framework Core
 - Microsoft SQL Server
 
+<br>
+
 ### 11. [e-Boutique](https://github.com/krlan2789/lan-boutique)
 
 #### Summary
@@ -143,6 +163,8 @@
 - Tailwind CSS
 - AlpineJS
 
+<br>
+
 ### 12. [Rising Bubble - GGJ 2025 by GADAS](https://krlan2789.itch.io/rising-bubble)
 
 #### Summary
@@ -153,6 +175,8 @@
 
 - Unity (Android, iOS, Windows)
 - C#
+
+<br>
 
 ### 13. [LanGeng - Social Media API](https://github.com/krlan2789/Lan-SocialMedia-API)
 
@@ -171,6 +195,8 @@
 - C#
 - Microsoft SQL Server
 
+<br>
+
 ## B. Maintenance (Job)
 
 ### 1. [Kaifa Space Center](https://play.google.com/store/apps/details?id=com.kaifa.learning) :
@@ -185,6 +211,8 @@
 - Maxst
 - Google Cardboard XR
 
+<br>
+
 ### 2. [Jelajah EBM AR](https://play.google.com/store/apps/details?id=com.mizan.map.ebmar) :
 
 #### Summary
@@ -195,6 +223,8 @@
 
 - Unity (Android, iOS)
 - Maxst
+
+<br>
 
 ### 3. [Funtastic Learning](https://play.google.com/store/apps/details?id=com.mizan.map.funtasticlearning) :
 
@@ -207,6 +237,8 @@
 - Unity (Android, iOS)
 - Maxst
 
+<br>
+
 ### 4. [Halo Balita AR](https://play.google.com/store/apps/details?id=com.mizan.map.halobalitaar) :
 
 #### Summary
@@ -217,6 +249,8 @@
 
 - Unity (Android, iOS)
 - Maxst
+
+<br>
 
 ### 5. [CLC Teacher App](https://play.google.com/store/apps/details?id=com.anakpintar.clcteacherapp) :
 
@@ -229,6 +263,8 @@
 - Unity (Android, iOS)
 - Google Firebase
 
+<br>
+
 ### 6. [CLC Reading App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreading) :
 
 #### Summary
@@ -240,6 +276,8 @@
 - Unity (Android, iOS)
 - Google Firebase
 
+<br>
+
 ### 7. [CLC Meaning App](https://play.google.com/store/apps/details?id=com.anakpintar.clcmeaning) :
 
 #### Summary
@@ -249,6 +287,8 @@
 #### Technologies:
 
 - Unity (Android, iOS)
+
+<br>
 
 ### 8. [CLC Speaking App](https://play.google.com/store/apps/details?id=com.anakpintar.clcspeaking) :
 
@@ -261,6 +301,8 @@
 - Unity (Android, iOS)
 - Google Firebase
 
+<br>
+
 ### 9. [CLC Let's Talk (CLC Speaking App's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew) :
 
 #### Summary
@@ -272,6 +314,8 @@
 - Unity (Android, iOS)
 - C#
 - Google Firebase
+
+<br>
 
 ## C. From Scratch (Job)
 
@@ -293,6 +337,8 @@
 - Google AdMob
 - [SingularityIndonesia/ForegroundGPSTracker (Android)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 
+<br>
+
 ### 2. [CLC Report App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreport) :
 
 #### Summary
@@ -305,6 +351,8 @@
 - C#
 - WebView
 
+<br>
+
 ### 3. [CLC Word Explorer](https://play.google.com/store/apps/details?id=com.AnakPintar.CLCMeaningforKids) :
 
 #### Summary
@@ -314,6 +362,8 @@
 #### Technologies:
 
 - Unity (Android, iOS)
+
+<br>
 
 ### 4. [5T Fine Blend - Sales Tracker](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker) :
 
@@ -333,6 +383,8 @@
 - Google Firebase
 - [SingularityIndonesia/ForegroundGPSTracker (Android)](https://github.com/SingularityIndonesia/ForegroundGPSTracker)
 
+<br>
+
 ### 5. Xendit Payment API for Perumahan RT apps :
 
 #### Summary
@@ -346,6 +398,8 @@
 - PostgreSQL
 - Xendit
 
+<br>
+
 ### 6. Midtrans Payment API for Perumahan RT apps :
 
 #### Summary
@@ -358,6 +412,8 @@
 - Express.js
 - PostgreSQL
 - Midtrans
+
+<br>
 
 ### 7. IAK PPOB API for Perumahan RT apps :
 
