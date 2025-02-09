@@ -197,7 +197,7 @@
 
 <br>
 
-## B. Maintenance (Job)
+## B. Maintenance Only
 
 ### 1. [Kaifa Space Center](https://play.google.com/store/apps/details?id=com.kaifa.learning) :
 
@@ -303,20 +303,6 @@
 
 <br>
 
-### 9. [CLC Let's Talk (CLC Speaking App's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew) :
-
-#### Summary
-
-> A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
-
-#### Technologies:
-
-- Unity (Android, iOS)
-- C#
-- Google Firebase
-
-<br>
-
 ## C. From Scratch (Job)
 
 ### 1. [Perumahan RT](https://play.google.com/store/apps/details?id=com.anakpintar.perumahan) :
@@ -365,7 +351,21 @@
 
 <br>
 
-### 4. [5T Fine Blend - Sales Tracker](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker) :
+### 4. [CLC Let's Talk (CLC Speaking App's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew) :
+
+#### Summary
+
+> A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
+
+#### Technologies:
+
+- Unity (Android, iOS)
+- C#
+- Google Firebase
+
+<br>
+
+### 5. [5T Fine Blend - Sales Tracker](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker) :
 
 #### Summary
 
@@ -385,7 +385,7 @@
 
 <br>
 
-### 5. Xendit Payment API for Perumahan RT apps :
+### 6. Xendit Payment API for Perumahan RT apps :
 
 #### Summary
 
@@ -400,7 +400,7 @@
 
 <br>
 
-### 6. Midtrans Payment API for Perumahan RT apps :
+### 7. Midtrans Payment API for Perumahan RT apps :
 
 #### Summary
 
@@ -415,7 +415,7 @@
 
 <br>
 
-### 7. IAK PPOB API for Perumahan RT apps :
+### 8. IAK PPOB API for Perumahan RT apps :
 
 #### Summary
 
