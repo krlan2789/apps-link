@@ -122,7 +122,7 @@
 
 <br>
 
-### 9. [Land Property](https://github.com/krlan2789/Land-Property-App)
+### 9. [Land Estate](https://github.com/krlan2789/Land-Property-App)
 
 **Summary**
 
@@ -135,7 +135,7 @@
 
 <br>
 
-### 10. [Land Property](https://github.com/krlan2789/Land-Property-App)
+### 10. [Land Estate](https://github.com/krlan2789/Land-Property-App)
 
 **Summary**
 
@@ -150,17 +150,23 @@
 
 <br>
 
-### 11. [e-Boutique](https://github.com/krlan2789/lan-boutique)
+### 11. [Lanvender - e-Boutique](https://github.com/krlan2789/lan-boutique)
 
 **Summary**
 
-> An e-Commerce built using Laravel 11 and TailwindCSS.
+> An e-commerce platform built using Laravel, TailwindCSS, and AlpineJS. This platform allows users to browse, shop, and manage products seamlessly with a modern and responsive design.
+
+- Developed the e-commerce platform using Laravel for backend logic, ensuring robust and scalable application performance.
+- Designed and implemented responsive and visually appealing user interfaces using TailwindCSS.
+- Integrated dynamic functionality with AlpineJS to enhance user interactivity and experience.
+- Continuously improved the platform to enhance features and overall performance.
 
 **Technologies:**
 
 - Laravel 11
 - Tailwind CSS
 - AlpineJS
+- SQLite
 
 <br>
 
@@ -190,8 +196,9 @@
 
 **Technologies:**
 
-- .NET MAUI
+- ASP.NET Core
 - C#
+- Entity Framework Core
 - Microsoft SQL Server
 
 <br>
