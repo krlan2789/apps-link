@@ -1,6 +1,6 @@
-# 1. Projects/Applications I'm working on
+# Projects/Applications I'm working on
 
-## 1.1. Personal Projects
+## A. Personal Projects
 
 1. [Personal Website](https://erlankurnia.github.io) :
 
@@ -167,7 +167,7 @@
     - C#
     - Microsoft SQL Server
 
-## 1.2. Maintenance (Job)
+## B. Maintenance (Job)
 
 1. [Kaifa Space Center](https://play.google.com/store/apps/details?id=com.kaifa.learning) :
 
@@ -269,7 +269,7 @@
     - C#
     - Google Firebase
 
-## 1.3. From Scratch (Job)
+## C. From Scratch (Job)
 
 1. [Perumahan RT](https://play.google.com/store/apps/details?id=com.anakpintar.perumahan) :
 
