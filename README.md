@@ -122,7 +122,7 @@
 
 <br>
 
-### 9. [Land Estate](https://github.com/krlan2789/Land-Property-App)
+### 9. [Land Estate - Mobile](https://github.com/krlan2789/Land-Property-App)
 
 **Summary**
 
@@ -135,7 +135,7 @@
 
 <br>
 
-### 10. [Land Estate](https://github.com/krlan2789/Land-Property-App)
+### 10. [Land Estate - API](https://github.com/krlan2789/Land-Property-Server)
 
 **Summary**
 
@@ -192,7 +192,6 @@
 - Designed and implemented API endpoints for user registration, authentication, posting messages, and viewing messages.
 - Handled data retrieval and storage using appropriate database solutions.
 - Ensured API security and performance through best practices and optimization techniques.
-- Collaborated with frontend developers to ensure seamless integration and functionality.
 
 **Technologies:**
 
