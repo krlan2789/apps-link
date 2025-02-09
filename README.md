@@ -80,9 +80,8 @@
 > Event Invitation (Currently only Wedding Invitation) project is a web application that allows users to create, send, and manage event invitations. The application includes features such as user authentication, event creation, invitation sending, and RSVP tracking.
 
 - Designed and implemented features for user authentication, event creation, invitation sending, and RSVP tracking.
-- Handled data retrieval and storage using PostgreSQL.
 - Ensured API security and performance through best practices and optimization techniques.
-- Managed the PostgreSQL database schema and ensured data integrity and performance.
+- Managed the database schema and ensured data integrity and performance.
 - Handled database migrations and backups to maintain data consistency.
 - Developed the user interface using Tailwind CSS for styling.
 - Implemented responsive design to ensure the application works well on various devices.
@@ -203,7 +202,7 @@
 
 **Summary**
 
-> Developed in Unity for Android and iOS, utilizing Maxst and Google Cardboard XR for immersive experiences.
+> An educational app built with Unity for Android and iOS, utilizing Maxst and Google Cardboard XR for immersive experiences.
 
 **Technologies:**
 
@@ -329,7 +328,11 @@
 
 **Summary**
 
-> A series of educational and functional apps for parent in Chinese Language School, built with Unity and WebView.
+> A series of educational and functional applications designed to assist parents in Chinese Language Schools. These apps are built using Unity and WebView to provide a seamless and engaging user experience.
+
+- Developed the mobile application using Unity, ensuring smooth performance and user interaction.
+- Designed and implemented a user-friendly interface in Unity based on provided designs, enhancing usability and visual appeal.
+- Collaborated closely with the web development team to design and implement a comprehensive REST API, enabling seamless data integration and communication between the mobile app and web services.
 
 **Technologies:**
 
@@ -343,7 +346,12 @@
 
 **Summary**
 
-> A series of educational and functional apps for students in Chinese Language School designed for kids, built with Unity.
+> An educational tool designed for young students in Chinese Language Schools. Built with Unity, the app helps children learn and understand Chinese vocabulary through interactive and engaging activities.
+
+- Developed the application using Unity, ensuring that it is both engaging and educational for young learners.
+- Implemented intuitive and interactive user interfaces that are visually appealing and easy to navigate for children based on provided designs.
+- Created educational content and activities that make learning Chinese vocabulary fun and effective.
+- Collaborated with educators to ensure the app's content aligns with the educational standards and is appropriate for the target age group.
 
 **Technologies:**
 
@@ -355,7 +363,11 @@
 
 **Summary**
 
-> A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
+> Part of a series of educational and functional applications designed for students in Chinese Language Schools. This app focuses on improving speaking skills and offers a seamless cross-platform experience using Unity and Google Firebase.
+
+- Developed the application using Unity, focusing on engaging and interactive speaking exercises.
+- Implemented user-friendly interfaces to ensure a smooth and enjoyable learning experience based on provided designs.
+- Collaborated with educators to ensure the app's content aligns with the educational standards and effective for language learning.
 
 **Technologies:**
 
