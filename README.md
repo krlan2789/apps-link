@@ -8,7 +8,7 @@
 
 > A personal website that built using Vue.js and Tailwind CSS.
 
-**Technologies:**
+**Technologies**
 
 - Vue.js
 - TypeScript
@@ -24,7 +24,7 @@
 
 > Collaborated on a team project to master HTML5 and CSS3 in Progate Platform.
 
-**Technologies:**
+**Technologies**
 
 - HTML5
 - CSS3
@@ -37,7 +37,7 @@
 
 > Final Project Kotlin Compose application in Sanbercode Platform.
 
-**Technologies:**
+**Technologies**
 
 - Android
 - Kotlin Compose
@@ -51,7 +51,7 @@
 
 > Developed Unity Mobile Application with a focus on background location services.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android)
 - C#
@@ -65,7 +65,7 @@
 
 > Built using Node, Express.js, and PostgreSQL. Featuring real-time updates via a WebSocket server.
 
-**Technologies:**
+**Technologies**
 
 - Node.js
 - Express.js
@@ -86,7 +86,7 @@
 - Developed the user interface using Tailwind CSS for styling.
 - Implemented responsive design to ensure the application works well on various devices.
 
-**Technologies:**
+**Technologies**
 
 - Laravel
 - Tailwind CSS
@@ -100,7 +100,7 @@
 
 > A project designed to integrate live location tracking into Unity applications. It leverages the ForegroundGPSTracker library for Android by SingularityIndonesia.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android)
 - C#
@@ -114,7 +114,7 @@
 
 > A Unity project that leverages the K-Means Clustering algorithm to efficiently search for the nearest coordinate within a coordinates list. This project is particularly useful for applications requiring spatial data analysis and nearest neighbor searches.
 
-**Technologies:**
+**Technologies**
 
 - Unity
 - C#
@@ -128,7 +128,7 @@
 
 > A project built using .NET MAUI and C#. It's designed to function similarly to real estate apps like Rumah123, Lamudi, or Brighton. The app allows users to browse and manage property listings.
 
-**Technologies:**
+**Technologies**
 
 - .NET MAUI
 - C#
@@ -141,7 +141,7 @@
 
 > A project built using ASP.NET Core and C#.<br>It's designed to function similarly to real estate apps like Rumah123, Lamudi, or Brighton.<br>The REST API allows users to browse and manage property listings.
 
-**Technologies:**
+**Technologies**
 
 - ASP.NET Core
 - C#
@@ -161,7 +161,7 @@
 - Integrated dynamic functionality with AlpineJS to enhance user interactivity and experience.
 - Continuously improved the platform to enhance features and overall performance.
 
-**Technologies:**
+**Technologies**
 
 - Laravel 11
 - Tailwind CSS
@@ -176,7 +176,7 @@
 
 > Team 19's Project of Global Game Jam 2025 event held by GADAS (Game Developer Arek Suroboyo) with the theme Bubble. Protects the bubble from various obstacles.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS, Windows)
 - C#
@@ -193,7 +193,7 @@
 - Handled data retrieval and storage using appropriate database solutions.
 - Ensured API security and performance through best practices and optimization techniques.
 
-**Technologies:**
+**Technologies**
 
 - ASP.NET Core
 - C#
@@ -210,7 +210,7 @@
 
 > An educational app built with Unity for Android and iOS, utilizing Maxst and Google Cardboard XR for immersive experiences.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - Maxst
@@ -224,7 +224,7 @@
 
 > An educational app built with Unity and Maxst, supporting both Android and iOS platforms.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - Maxst
@@ -237,7 +237,7 @@
 
 > An educational app built with Unity and Maxst, supporting both Android and iOS platforms.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - Maxst
@@ -250,7 +250,7 @@
 
 > An educational app built with Unity and Maxst, supporting both Android and iOS platforms.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - Maxst
@@ -263,7 +263,7 @@
 
 > A series of educational and functional apps for Teacher in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - Google Firebase
@@ -276,7 +276,7 @@
 
 > A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - Google Firebase
@@ -289,7 +289,7 @@
 
 > A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 
@@ -301,7 +301,7 @@
 
 > A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - Google Firebase
@@ -320,7 +320,7 @@
 - Payment Integration, created a REST API with Express.js for payment gateway services.
 - API Integration and Collaboration, worked closely with the web development team to design and implement a comprehensive REST API.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - C#
@@ -340,7 +340,7 @@
 - Designed and implemented a user-friendly interface in Unity based on provided designs, enhancing usability and visual appeal.
 - Collaborated closely with the web development team to design and implement a comprehensive REST API, enabling seamless data integration and communication between the mobile app and web services.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - C#
@@ -359,7 +359,7 @@
 - Created educational content and activities that make learning Chinese vocabulary fun and effective.
 - Collaborated with educators to ensure the app's content aligns with the educational standards and is appropriate for the target age group.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 
@@ -375,7 +375,7 @@
 - Implemented user-friendly interfaces to ensure a smooth and enjoyable learning experience based on provided designs.
 - Collaborated with educators to ensure the app's content aligns with the educational standards and effective for language learning.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android, iOS)
 - C#
@@ -394,7 +394,7 @@
 - Real-Time Data Integration, built a WebSocket Server with Express.js for server-client communication.
 - API Integration and Collaboration, worked closely with the web development team to design and implement a comprehensive REST API.
 
-**Technologies:**
+**Technologies**
 
 - Unity (Android)
 - C#
@@ -409,7 +409,7 @@
 
 > Implemented Xendit APIs for e-Wallet (OVO, DANA), Virtual Account, Disbursement, using Express.jsand PostgreSQL for backend management.
 
-**Technologies:**
+**Technologies**
 
 - Node.js
 - Express.js
@@ -424,7 +424,7 @@
 
 > Implemented Midtrans APIs for e-Wallet (GoPay, ShopeePay), using Express.js and PostgreSQL for backend management.
 
-**Technologies:**
+**Technologies**
 
 - Node.js
 - Express.js
@@ -439,7 +439,7 @@
 
 > Integrated services for Pulsa, PDAM, and PLN payments, managed through Express.js and PostgreSQL.
 
-**Technologies:**
+**Technologies**
 
 - Node.js
 - Express.js
