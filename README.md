@@ -99,7 +99,7 @@
 
 #### Summary
 
-> A project designed to integrate live location tracking into Unity applications. It leverages the ForegroundGPSTracker library for Android by SingularityIndonesia, which is currently in progress.
+> A project designed to integrate live location tracking into Unity applications. It leverages the ForegroundGPSTracker library for Android by SingularityIndonesia.
 
 #### Technologies:
 
