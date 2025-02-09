@@ -4,11 +4,11 @@
 
 ### 1. [Personal Website](https://erlankurnia.github.io) :
 
-##### **Summary**
+#**Summary**
 
 > A personal website that built using Vue.js and Tailwind CSS.
 
-##### **Technologies:**
+#**Technologies:**
 
 - Vue.js
 - TypeScript
@@ -20,11 +20,11 @@
 
 ### 2. [Progate - HTML5 CSS3 Course (Team Project)](https://krlan2789.github.io/progate-ceb-e02) :
 
-#### **Summary**
+**Summary**
 
 > Collaborated on a team project to master HTML5 and CSS3 in Progate Platform.
 
-#### **Technologies:**
+**Technologies:**
 
 - HTML5
 - CSS3
@@ -33,11 +33,11 @@
 
 ### 3. [Android Application Bootcamp](https://github.com/krlan2789/Sanbercode-B48-Final-Project) :
 
-#### **Summary**
+**Summary**
 
 > Final Project Kotlin Compose application in Sanbercode Platform.
 
-#### **Technologies:**
+**Technologies:**
 
 - Android
 - Kotlin Compose
@@ -47,11 +47,11 @@
 
 ### 4. [Background Location](https://github.com/krlan2789/Unity-Background-Location) :
 
-#### **Summary**
+**Summary**
 
 > Developed Unity Mobile Application with a focus on background location services.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android)
 - C#
@@ -61,11 +61,11 @@
 
 ### 5. [WebSocket Server](https://github.com/krlan2789/express-ws-app) :
 
-#### **Summary**
+**Summary**
 
 > Built using Node, Express.js, and PostgreSQL. Featuring real-time updates via a WebSocket server.
 
-#### **Technologies:**
+**Technologies:**
 
 - Node.js
 - Express.js
@@ -75,7 +75,7 @@
 
 ### 6. [Event Invitation](https://invitation.kuryana.id) :
 
-#### **Summary**
+**Summary**
 
 > Event Invitation (Currently only Wedding Invitation) project is a web application that allows users to create, send, and manage event invitations. The application includes features such as user authentication, event creation, invitation sending, and RSVP tracking.
 
@@ -87,7 +87,7 @@
 - Developed the user interface using Tailwind CSS for styling.
 - Implemented responsive design to ensure the application works well on various devices.
 
-#### **Technologies:**
+**Technologies:**
 
 - Laravel
 - Tailwind CSS
@@ -97,11 +97,11 @@
 
 ### 7. [Live Location Unity Plugin](https://github.com/krlan2789/Unity-LAN-LiveLocation-Plugin)
 
-#### **Summary**
+**Summary**
 
 > A project designed to integrate live location tracking into Unity applications. It leverages the ForegroundGPSTracker library for Android by SingularityIndonesia.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android)
 - C#
@@ -111,11 +111,11 @@
 
 ### 8. [Nearest Coordinate Search](https://github.com/krlan2789/Unity-Nearest-Coordinate)
 
-#### **Summary**
+**Summary**
 
 > A Unity project that leverages the K-Means Clustering algorithm to efficiently search for the nearest coordinate within a coordinates list. This project is particularly useful for applications requiring spatial data analysis and nearest neighbor searches.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity
 - C#
@@ -125,11 +125,11 @@
 
 ### 9. [Land Property](https://github.com/krlan2789/Land-Property-App)
 
-#### **Summary**
+**Summary**
 
 > A project built using .NET MAUI and C#. It's designed to function similarly to real estate apps like Rumah123, Lamudi, or Brighton. The app allows users to browse and manage property listings.
 
-#### **Technologies:**
+**Technologies:**
 
 - .NET MAUI
 - C#
@@ -138,11 +138,11 @@
 
 ### 10. [Land Property](https://github.com/krlan2789/Land-Property-App)
 
-#### **Summary**
+**Summary**
 
 > A project built using ASP.NET Core and C#.<br>It's designed to function similarly to real estate apps like Rumah123, Lamudi, or Brighton.<br>The REST API allows users to browse and manage property listings.
 
-#### **Technologies:**
+**Technologies:**
 
 - ASP.NET Core
 - C#
@@ -153,11 +153,11 @@
 
 ### 11. [e-Boutique](https://github.com/krlan2789/lan-boutique)
 
-#### **Summary**
+**Summary**
 
 > An e-Commerce built using Laravel 11 and TailwindCSS.
 
-#### **Technologies:**
+**Technologies:**
 
 - Laravel 11
 - Tailwind CSS
@@ -167,11 +167,11 @@
 
 ### 12. [Rising Bubble - GGJ 2025 by GADAS](https://krlan2789.itch.io/rising-bubble)
 
-#### **Summary**
+**Summary**
 
 > Team 19's Project of Global Game Jam 2025 event held by GADAS (Game Developer Arek Suroboyo) with the theme Bubble. Protects the bubble from various obstacles.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS, Windows)
 - C#
@@ -180,7 +180,7 @@
 
 ### 13. [LanGeng - Social Media API](https://github.com/krlan2789/Lan-SocialMedia-API)
 
-#### **Summary**
+**Summary**
 
 > A REST API project designed to manage social media functionalities. It allows users to perform actions such as registering accounts, logging in, posting messages, and viewing messages from other users.
 
@@ -189,7 +189,7 @@
 - Ensured API security and performance through best practices and optimization techniques.
 - Collaborated with frontend developers to ensure seamless integration and functionality.
 
-#### **Technologies:**
+**Technologies:**
 
 - .NET MAUI
 - C#
@@ -201,11 +201,11 @@
 
 ### 1. [Kaifa Space Center](https://play.google.com/store/apps/details?id=com.kaifa.learning) :
 
-#### **Summary**
+**Summary**
 
 > Developed in Unity for Android and iOS, utilizing Maxst and Google Cardboard XR for immersive experiences.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - Maxst
@@ -215,11 +215,11 @@
 
 ### 2. [Jelajah EBM AR](https://play.google.com/store/apps/details?id=com.mizan.map.ebmar) :
 
-#### **Summary**
+**Summary**
 
 > An educational app built with Unity and Maxst, supporting both Android and iOS platforms.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - Maxst
@@ -228,11 +228,11 @@
 
 ### 3. [Funtastic Learning](https://play.google.com/store/apps/details?id=com.mizan.map.funtasticlearning) :
 
-#### **Summary**
+**Summary**
 
 > An educational app built with Unity and Maxst, supporting both Android and iOS platforms.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - Maxst
@@ -241,11 +241,11 @@
 
 ### 4. [Halo Balita AR](https://play.google.com/store/apps/details?id=com.mizan.map.halobalitaar) :
 
-#### **Summary**
+**Summary**
 
 > An educational app built with Unity and Maxst, supporting both Android and iOS platforms.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - Maxst
@@ -254,11 +254,11 @@
 
 ### 5. [CLC Teacher App](https://play.google.com/store/apps/details?id=com.anakpintar.clcteacherapp) :
 
-#### **Summary**
+**Summary**
 
 > A series of educational and functional apps for Teacher in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - Google Firebase
@@ -267,11 +267,11 @@
 
 ### 6. [CLC Reading App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreading) :
 
-#### **Summary**
+**Summary**
 
 > A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - Google Firebase
@@ -280,11 +280,11 @@
 
 ### 7. [CLC Meaning App](https://play.google.com/store/apps/details?id=com.anakpintar.clcmeaning) :
 
-#### **Summary**
+**Summary**
 
 > A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 
@@ -292,11 +292,11 @@
 
 ### 8. [CLC Speaking App](https://play.google.com/store/apps/details?id=com.anakpintar.clcspeaking) :
 
-#### **Summary**
+**Summary**
 
 > A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - Google Firebase
@@ -307,7 +307,7 @@
 
 ### 1. [Perumahan RT](https://play.google.com/store/apps/details?id=com.anakpintar.perumahan) :
 
-#### **Summary**
+**Summary**
 
 > A specialized mobile application designed to streamline the management of residential communities.<br>Unlike typical property apps that focus on marketing houses, apartments, or other property types, Perumahan RT is dedicated to managing community dues, payments, inventory, news, and vital information related to the administration of a housing complex.
 
@@ -315,7 +315,7 @@
 - Payment Integration, created a REST API with Express.js for payment gateway services.
 - API Integration and Collaboration, worked closely with the web development team to design and implement a comprehensive REST API.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - C#
@@ -327,11 +327,11 @@
 
 ### 2. [CLC Report App](https://play.google.com/store/apps/details?id=com.anakpintar.clcreport) :
 
-#### **Summary**
+**Summary**
 
 > A series of educational and functional apps for parent in Chinese Language School, built with Unity and WebView.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - C#
@@ -341,11 +341,11 @@
 
 ### 3. [CLC Word Explorer](https://play.google.com/store/apps/details?id=com.AnakPintar.CLCMeaningforKids) :
 
-#### **Summary**
+**Summary**
 
 > A series of educational and functional apps for students in Chinese Language School designed for kids, built with Unity.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 
@@ -353,11 +353,11 @@
 
 ### 4. [CLC Let's Talk (CLC Speaking App's remake)](https://play.google.com/store/apps/details?id=com.anakpintar.clcstudentdsnew) :
 
-#### **Summary**
+**Summary**
 
 > A series of educational and functional apps (Reading, Meaning, Teacher, Speaking, Let's Talk) for students in Chinese Language School, built with Unity and Google Firebase for seamless cross-platform functionality.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android, iOS)
 - C#
@@ -367,7 +367,7 @@
 
 ### 5. [5T Fine Blend - Sales Tracker](https://play.google.com/store/apps/details?id=com.AnakPintar.SalesTracker) :
 
-#### **Summary**
+**Summary**
 
 > A Sales Tracker mobile application developed specifically for our client, aiming to streamline and enhance their sales operations.<br>This tailored solution provides the company's sales team with comprehensive tools to monitor performance, manage client relationships, and analyze key sales metrics—all within a unified platform.
 
@@ -376,7 +376,7 @@
 - Real-Time Data Integration, built a WebSocket Server with Express.js for server-client communication.
 - API Integration and Collaboration, worked closely with the web development team to design and implement a comprehensive REST API.
 
-#### **Technologies:**
+**Technologies:**
 
 - Unity (Android)
 - C#
@@ -387,11 +387,11 @@
 
 ### 6. Xendit Payment API for Perumahan RT apps :
 
-#### **Summary**
+**Summary**
 
 > Implemented Xendit APIs for e-Wallet (OVO, DANA), Virtual Account, Disbursement, using Express.jsand PostgreSQL for backend management.
 
-#### **Technologies:**
+**Technologies:**
 
 - Node.js
 - Express.js
@@ -402,11 +402,11 @@
 
 ### 7. Midtrans Payment API for Perumahan RT apps :
 
-#### **Summary**
+**Summary**
 
 > Implemented Midtrans APIs for e-Wallet (GoPay, ShopeePay), using Express.js and PostgreSQL for backend management.
 
-#### **Technologies:**
+**Technologies:**
 
 - Node.js
 - Express.js
@@ -417,11 +417,11 @@
 
 ### 8. IAK PPOB API for Perumahan RT apps :
 
-#### **Summary**
+**Summary**
 
 > Integrated services for Pulsa, PDAM, and PLN payments, managed through Express.js and PostgreSQL.
 
-#### **Technologies:**
+**Technologies:**
 
 - Node.js
 - Express.js
